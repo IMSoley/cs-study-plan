@@ -1,16 +1,44 @@
 ## Personal Resources by Soley :dizzy:
 **Resources based on my personal experience (quality matters over quantity!)**  
 <br/><br/>
-![](https://www.wallpaperflare.com/static/629/579/738/gnu-linux-arch-linux-arch-wallpaper.jpg)  
+<p align="center">
+<img src="https://www.wallpaperflare.com/static/629/579/738/gnu-linux-arch-linux-arch-wallpaper.jpg" alt="Arch ❤ Linux"/>
+<b>Arch ❤ Linux</b>
+</p> 
+
+## Overview
+* [CS 101 (Intro to the world of beauty)](https://github.com/Soleymanurj/cs-study-plan#cs-101-intro-to-the-world-of-beauty-earth_asia)
+* [C (Foundation)](https://github.com/Soleymanurj/cs-study-plan#c-foundation-thumbsup)
+* [PHP (Brush-up web dev) ](https://github.com/Soleymanurj/cs-study-plan#php-brush-up-web-dev-paintbrush)
+* [JavaScript (Jedi of Headache)](https://github.com/Soleymanurj/cs-study-plan#javascript-jedi-of-headache-package)
+* [Hacking 101 (very basic)](https://github.com/Soleymanurj/cs-study-plan#hacking-101-very-basic-skull_and_crossbones)
+* [C++ (One step ahead than C as named C++)](https://github.com/Soleymanurj/cs-study-plan#c-one-step-ahead-than-c-as-named-c-knife)
+* [Java (for OO concept)](https://github.com/Soleymanurj/cs-study-plan#java-for-oo-concept-mrs_claus)
+* [Python (can do anything :3)](https://github.com/Soleymanurj/cs-study-plan#python-can-do-anything-3-snake)
+* [Calculus (Foundation of Complexity)](https://github.com/Soleymanurj/cs-study-plan#calculus-foundation-of-complexity-pensive)
+* [Functional Programming (Path to become Pro programmer)](https://github.com/Soleymanurj/cs-study-plan#functional-programming-path-to-become-pro-programmer-man_with_turban)
+* [Go-lang (Seek of speed & efficiency)](https://github.com/Soleymanurj/cs-study-plan#go-lang-seek-of-speed--efficiency-zap)
+* [Regular Expressions (Geeks does use)](https://github.com/Soleymanurj/cs-study-plan#regular-expressions-geeks-does-use-hamster)
+* [Data Structures and Algorithms (DSA) (MOOC)](https://github.com/Soleymanurj/cs-study-plan#data-structures-and-algorithms-dsa-mooc-sunglasses)
+* [Data Science & Artificial Intelligence](https://github.com/Soleymanurj/cs-study-plan#data-science--artificial-intelligence-robot)
+* [Machine Learning](https://github.com/Soleymanurj/cs-study-plan#machine-learning-rowing_man)
+* [R (for Data Science too)](https://github.com/Soleymanurj/cs-study-plan#r-for-data-science-too-roll_eyes)
+* [Matlab](https://github.com/Soleymanurj/cs-study-plan#matlab-information_desk_person)
+* [Blockchain Engineering](https://github.com/Soleymanurj/cs-study-plan#blockchain-engineering-world_map)
+* [Web Development](https://github.com/Soleymanurj/cs-study-plan#x-web-dev-computer)
+* [Higher Education as a TA/GA/RA](https://github.com/Soleymanurj/cs-study-plan#higher-education-as-a-tagara-man_student)
+* [Extra Shitt..](https://github.com/Soleymanurj/cs-study-plan#extra-shitt-wink)
+* [Let the craziness begin](https://github.com/Soleymanurj/cs-study-plan#let-the-craziness-begin-fire)
 <br/><br/>
-**CS 101 (Intro to the world of beauty)** :earth_asia:
+
+#### CS 101 (Intro to the world of beauty) :earth_asia:
 * https://www.includehelp.com/basics/
 * https://www.geeksforgeeks.org/gate-cs-notes-gq/
 * Best one: https://www.youtube.com/playlist?list=PLkVo56yGU5PqCYafmMj_I7n_37K2VABdB
 * Harvard CS50(Advance & Hard***): https://cs50.harvard.edu
 <br/><br/>
 
-**C (Foundation)** :thumbsup:
+#### C (Foundation) :thumbsup:
 * Very Basic (bangla): [http://cpbook.subeen.com](http://cpbook.subeen.com)
 * Most recom: [https://www.dipmat.univpm.it/~demeio/public/the_c_programming_language_2.pdf](https://www.dipmat.univpm.it/~demeio/public/the_c_programming_language_2.pdf)
 * Personal ref 
@@ -43,14 +71,14 @@
 * C with Projects: [https://github.com/rby90/Project-Based-Tutorials-in-C](https://github.com/rby90/Project-Based-Tutorials-in-C)
 <br/><br/>
 
-**PHP (Brush-up web dev)** :paintbrush:
+#### PHP (Brush-up web dev) :paintbrush:
 * Bucky’s 200 videos: [https://www.youtube.com/playlist?list=PL442FA2C127377F](https://www.youtube.com/playlist?list=PL442FA2C127377F)
 * [http://www.zentut.com/php-tutorial/](http://www.zentut.com/php-tutorial/)
 * Manual: [http://php.net/manual/en/index.php](http://php.net/manual/en/index.php)
 * BASIC OOP: [https://www.startutorial.com/homes/oo_beginner](https://www.startutorial.com/homes/oo_beginner)
 <br/><br/>
 
-**JavaScript (Jedi of Headache)** :package:
+#### JavaScript (Jedi of Headache) :package:
 * https://javascript.info/
 * https://eloquentjavascript.net/
 * Path: [https://github.com/javascript-society/javascript-path](https://github.com/javascript-society/javascript-path)
@@ -61,7 +89,7 @@
 * Jedi: [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
 <br/><br/>
 
-**Hacking 101 (very basic)** :skull_and_crossbones:
+#### Hacking 101 (very basic) :skull_and_crossbones:
 * Linux: [https://www.youtube.com/playlist?list=PLnjNR4-S-EVqfJWovxEJyb7I0IOkKkoYM](https://www.youtube.com/playlist?list=PLnjNR4-S-EVqfJWovxEJyb7I0IOkKkoYM)
 * CEH: [https://iclass.eccouncil.org/our-courses/certified-ethical-hacker-ceh/](https://iclass.eccouncil.org/our-courses/certified-ethical-hacker-ceh/)
 * Pentest: [https://www.owasp.org/index.php/Web_Application_Penetration_Testing](https://www.owasp.org/index.php/Web_Application_Penetration_Testing)
@@ -70,7 +98,7 @@
 * https://www.youtube.com/results?search_query=offensive+security+course
 <br/><br/>
 
-**C++ (One step ahead than C as named C++)** :knife:
+#### C++ (One step ahead than C as named C++) :knife:
 * Stanford CS 106B by Marty (Best course so far I have seen) 
 	* https://www.youtube.com/watch?v=NcZ2cu7gc-A&list=PLnfg8b9vdpLn9exZweTJx44CII1bYczuk
 	* https://web.stanford.edu/class/archive/cs/cs106b/cs106b.1162/lecture-videos.shtml
@@ -80,7 +108,7 @@
 * I love this book: [https://python.cs.southern.edu/cppbook/progcpp.pdf](https://python.cs.southern.edu/cppbook/progcpp.pdf)
 <br/><br/>
 
-**Java (for OO concept)** :mrs_claus:
+#### Java (for OO concept) :mrs_claus:
 * Best course on the planet, XD: [https://mooc.fi/en/](https://mooc.fi/en/)
 * Gold: [https://docs.google.com/document/d/1GVj8K9evB6cnbYSzajEo6RqkaqlCUZcn1-PrA4nyX4s](https://docs.google.com/document/d/1GVj8K9evB6cnbYSzajEo6RqkaqlCUZcn1-PrA4nyX4s)
 * Bucky’s Java 
@@ -100,7 +128,7 @@
 * https://alvinalexander.com/java/java_oo/
 <br/><br/>
 
-**Python (can do anything :3)** :snake:
+#### Python (can do anything :3) :snake:
 * MIT: [https://www.youtube.com/playlist?list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA](https://www.youtube.com/playlist?list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA)
 * Corey’s: [https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU](https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)
 * Sentdex 
@@ -111,7 +139,7 @@
 * Path to Become Python Guru: [https://stackoverflow.com/a/2576240/](https://stackoverflow.com/a/2576240/)
 <br/><br/>
 
-**Calculus (Foundation of Complexity)** :pensive:
+#### Calculus (Foundation of Complexity) :pensive:
 * One of the best course: [https://www.youtube.com/channel/UC5N5pRddyicAX1QJyJjIIdg](https://www.youtube.com/channel/UC5N5pRddyicAX1QJyJjIIdg)
 * Calculus one & two by Jim Fowler (Best of Best): [https://www.youtube.com/user/kisonecat/playlists?sort=dd&view=50&shelf_id=4](https://www.youtube.com/user/kisonecat/playlists?sort=dd&view=50&shelf_id=4)
 * https://www.youtube.com/view_play_list?p=F5E22224459D23D
@@ -121,18 +149,18 @@
 * https://www.youtube.com/playlist?list=PL19E79A0638C8D
 <br/><br/>
 
-**Functional Programming (Path to become Pro programmer)** :man_with_turban:
+#### Functional Programming (Path to become Pro programmer) :man_with_turban:
 * Haskell 
 	* [http://book.realworldhaskell.org/read/](http://book.realworldhaskell.org/read/)
 	* [http://learnyouahaskell.com/chapters](http://learnyouahaskell.com/chapters)
 	* https://www.seas.upenn.edu/~cis194/spring15/lectures.html
 <br/><br/>
 
-**Go-lang (Seek of speed & efficiency)** :zap:
+#### Go-lang (Seek of speed & efficiency) :zap:
 * Complete ref: https://docs.google.com/document/d/1Zb9GCWPKeEJ4Dyn2TkT-O3wJ8AFc-IMxZzTugNCjr-8/
 <br/><br/>
 
-**Regular Expressions (Geeks does use)** :hamster:	
+#### Regular Expressions (Geeks does use) :hamster:
 * YT Videos 
 	* https://www.youtube.com/watch?v=KJG1dETacLI
 	* https://www.youtube.com/watch?v=WX5Zfflvdt
@@ -150,7 +178,7 @@
 * https://developers.google.com/edu/python/regular-expressions
 <br/><br/>
 
-**Data Structures and Algorithms (DSA) (MOOC)** :sunglasses:
+#### Data Structures and Algorithms (DSA) (MOOC) :sunglasses:
 * Stanford University Algorithms 
 	* Part 1: [https://www.coursera.org/course/algo](https://www.coursera.org/course/algo)
 	* Part 2: [https://www.coursera.org/course/algo2](https://www.coursera.org/course/algo2)
@@ -165,7 +193,7 @@
 [http://www.extension.harvard.edu/academics/courses/data-structures-algorithms/21462](http://www.extension.harvard.edu/academics/courses/data-structures-algorithms/21462)
 <br/><br/>
 
-**Data Science & Artificial Intelligence** :robot:	
+#### Data Science & Artificial Intelligence :robot:
 * https://jakevdp.github.io/PythonDataScienceHandbook/
 * Python stuff 
 	* Pure gold: [https://chrisalbon.com/](https://chrisalbon.com/)
@@ -200,7 +228,7 @@
 	* Best one: [https://web.stanford.edu/~hastieElemStatLearn/](https://web.stanford.edu/~hastieElemStatLearn/)
 <br/><br/>
 
-**Machine Learning** :rowing_man:
+#### Machine Learning :rowing_man:
 * Maths for ML:
 	* Best: https://docs.google.com/document/d/16ljGhc7d7HYdzP_H5zpAU8dHRoUzpKsFBYbkcel6AE/edit?usp=sharing
 	* https://mml-book.github.io/
@@ -268,7 +296,7 @@
 * https://www.reddit.com/r/MachineLearning/comments/5z8110/d_a_super_harsh_guide_to_machine_learning/
 <br/><br/>
 
-**R (for Data Science too)** :roll_eyes:	
+#### R (for Data Science too) :roll_eyes:
 * With fun way: [https://www.rforcats.net/](https://www.rforcats.net/)
 * Best: [https://r4ds.had.co.nz/](https://r4ds.had.co.nz/)
 * https://storage.googleapis.com/kaggle-forum-message-attachments/356656/9869/DataScienceinR.pdf
@@ -281,7 +309,7 @@
 * Manual: [https://cran.r-project.org/doc/manuals/r-release/R-intro.html](https://cran.r-project.org/doc/manuals/r-release/R-intro.html)
 <br/><br/>
 
-**Matlab** :information_desk_person:	
+#### Matlab :information_desk_person:
 * MIT:
 [http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-094-introduction-to-matlab-january-iap-2010/](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-094-introduction-to-matlab-january-iap-2010/)
 * MIT: [https://lagunita.stanford.edu/courses/course-v1:Engineering+AdvMATLAB+Fall2018/about](https://lagunita.stanford.edu/courses/course-v1:Engineering+AdvMATLAB+Fall2018/about)
@@ -293,7 +321,7 @@
 * Solving problems: [https://www.mathworks.com/matlabcentral/cody/problems](https://www.mathworks.com/matlabcentral/cody/problems)
 <br/><br/>
 
-**Blockchain Engineering** :world_map:	
+#### Blockchain Engineering :world_map:
 * https://a16z.com/2018/02/10/crypto-readings-resources/
 * https://www.newline.co/
 * https://medium.com/crypto-currently/lets-build-the-tiniest-blockchain-e70965a248b
@@ -312,12 +340,12 @@
 * https://www.reddit.com/r/CryptoCurrency/comments/97g9n0/an_extensive_list_of_blockchain_courses_resources/
 <br/><br/>
 
-**{x} Web Dev** :computer:	
+#### {x} Web Dev :computer:
 * Full Stack(udacity): [https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd](https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd)
 * Bootcamp(udemy): [https://www.udemy.com/the-complete-web-development-bootcamp/](https://www.udemy.com/the-complete-web-development-bootcamp/)
 <br/><br/>
 
-**Higher Education as a TA/GA/RA** :man_student:
+#### Higher Education as a TA/GA/RA :man_student:
 * Prepare for IELTS
 	* Practice! - Practice!! - Practice!!!
 	* Watch YouTube Videos A LOT
@@ -378,7 +406,7 @@
 		* Audio and all others sooo on blah blah shitt....
 <br/><br/>
 
-**Extra Shitt..** :wink:	
+#### Extra Shitt.. :wink:
 * Masterpiece: [http://rosettacode.org/wiki/Rosetta_Code](http://rosettacode.org/wiki/Rosetta_Code)
 * Pro level books(pure gold): [https://goalkicker.com](https://goalkicker.com)
 * VCS: [https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAKWClAD_iKpNC0bGHxGhcx](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAKWClAD_iKpNC0bGHxGhcx)
@@ -441,7 +469,7 @@
 	* https://github.com/jwasham/coding-interview-university
 <br/><br/>
 
-**Let the craziness begin** :fire:
+#### Let the craziness begin :fire:
 * Quantum Physics 
 	* Understanding Einstein (The Special Theory of Relativity - Stanford): [https://www.coursera.org/learn/einstein-relativity](https://www.coursera.org/learn/einstein-relativity)
 	* Richard Feynman Lectures 
