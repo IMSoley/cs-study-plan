@@ -1,6 +1,6 @@
 ## Personal Resources by Soley :dizzy:
 **Resources based on my personal experience (quality matters over quantity!)**  
-<br/><br/>
+<br/>
 <p align="center">
 <img src="https://www.wallpaperflare.com/static/629/579/738/gnu-linux-arch-linux-arch-wallpaper.jpg" alt="Arch ❤ Linux"/>
 <b>Arch ❤ Linux</b>
