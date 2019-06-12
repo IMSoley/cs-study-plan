@@ -1,5 +1,5 @@
-## Personal Resources by Soley :dizzy:
-**Resources based on my personal experience (quality matters over quantity!)**  
+## Personal Resources by Soley
+<i>Resources based on my personal experience (quality matters over quantity!)</i>  
 <br/>
 <p align="center">
 <img src="https://www.wallpaperflare.com/static/629/579/738/gnu-linux-arch-linux-arch-wallpaper.jpg" alt="Arch ❤ Linux"/>
@@ -211,8 +211,8 @@
 	* https://math.byu.edu/~klkuttle/EssentialLinearAlgebra.pdf
 * Calculus 
 	* https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr
-	* https://www.khanacademy.org/math/calculus-
-	* https://www.khanacademy.org/math/calculus-
+	* https://www.khanacademy.org/math/calculus-1
+	* https://www.khanacademy.org/math/calculus-2
 	* https://www.khanacademy.org/math/multivariable-calculus
 * Data exploration 
 	* https://github.com/StephenElston/ExploringDataWithPython/blob/master/LearningDataVisualization.ipynb
@@ -226,6 +226,11 @@
 	* https://www-bcf.usc.edu/~gareth/ISL/index.html
 	* https://work.caltech.edu/telecourse.html
 	* Best one: [https://web.stanford.edu/~hastieElemStatLearn/](https://web.stanford.edu/~hastieElemStatLearn/)
+* DS Paths
+	* https://docs.google.com/spreadsheets/d/11s1JS-Qx-HgzDPa11CNTY9nkI-6tnSQzRua_wkVfF-0/edit?usp=sharing
+	* https://learn-anything.xyz/data-science
+	* DS In 8 Steps: [https://s3.amazonaws.com/assets.datacamp.com/blog_assets/DataScienceEightSteps_Full.png](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/DataScienceEightSteps_Full.png)
+	* https://docs.google.com/document/d/1jdykjMTsbojFGNaI6T-cYFZuVgGrImjeP8MWhE69vhk/edit
 <br/><br/>
 
 #### Machine Learning :rowing_man:
