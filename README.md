@@ -235,7 +235,6 @@
 
 #### Machine Learning :rowing_man:
 * Maths for ML:
-	* Best: https://docs.google.com/document/d/16ljGhc7d7HYdzP_H5zpAU8dHRoUzpKsFBYbkcel6AE/edit?usp=sharing
 	* https://mml-book.github.io/
 * Python Packages for ML 
 	* Pandas 
