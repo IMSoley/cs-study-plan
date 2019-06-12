@@ -439,6 +439,17 @@
 		* [http://www.cs.cornell.edu/courses/cs4450/2018sp/sockets_slides.pdf](http://www.cs.cornell.edu/courses/cs4450/2018sp/sockets_slides.pdf)
 		* [http://courses.cs.vt.edu/~cs5516/spring03/slides/SocketProgramming_1.pdf](http://courses.cs.vt.edu/~cs5516/spring03/slides/SocketProgramming_1.pdf)
 		* [http://www.cs.toronto.edu/~yganjali/resources/Course-Handouts/CSC458/H03--CSC458-Tutorial-I.pdf](http://www.cs.toronto.edu/~yganjali/resources/Course-Handouts/CSC458/H03--CSC458-Tutorial-I.pdf)
+* Assembly
+	* http://www.c-jump.com/CIS77/ASM/Assembly/lecture.html
+	* https://pacman128.github.io/pcasm/
+	* http://www.opensecuritytraining.info/IntroX86.html
+	* http://www.plantation-productions.com/Webster/
+	* https://legend.octopuslabs.io/sample-page.html
+	* http://win32assembly.programminghorizon.com/tutorials.html
+	* Uni ref 
+		* http://chortle.ccsu.edu/AssemblyTutorial/
+		* http://www.egr.unlv.edu/~ed/x86.html
+		* http://cs.lmu.edu/~ray/notes/x86assembly/
 * Reverse Engineering
 	* [http://opensecuritytraining.info/IntroX86.html](http://opensecuritytraining.info/IntroX86.html)
 	* https://securedorg.github.io/RE101/
